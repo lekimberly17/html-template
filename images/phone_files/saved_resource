@@ -1,38 +1,0 @@
-
-var ftGUID_4196797="5054B2CA36E04B";
-var ftConfID_4196797="0";
-var ftParams_4196797="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fad0ba7648e4a7474e826f58f26e57838.safeframe.googlesyndication.com%2Fsafeframe%2F1-0-38%2Fhtml%2Fcontainer.html&ft_section=__75298666814914745530848852479596018827&cachebuster=535342.3451904111";
-var ftKeyword_4196797="";
-var ftCustom_4196797="";
-var ftSection_4196797="__75298666814914745530848852479596018827";
-var ftSegment_4196797="ag2h";
-var ftSegmentList_4196797=[{s:'ag2h'}];
-var ftRuleMatch_4196797="0";
-var ftTimestamp_4196797="1635892581";
-var ftGeoC2_4196797="us";
-var ftGeoState_4196797="wa";
-var ftGeoCity_4196797="seattle";
-var ftISP_4196797="centurytel internet holdings inc.";
-var ftSpeed_4196797="broadband";
-var ftDMA_4196797="819";
-var ftLong_4196797="-122.34";
-var ftLat_4196797="47.63";
-var ftPostal_4196797="98109";
-var ftTimeZone_4196797="-700";
-var ftMobileCarrier_4196797="";
-var ftImp4196797 = {};
-ftImp4196797.privacy = "x";
-ftImp4196797.guidAge = "0";
-ftImp4196797.impID = "9AA6CFD4-C5FD-7855-328E-9C9B5B893DC6";
-ftImp4196797.duid = "FT:5054B2CA36E04B";
-
-ftImp4196797.ft_tpplid = "";
-ftImp4196797.ft_c = {};
-ftImp4196797.gdpr = "";
-ftImp4196797.gdpr_consent = "";
-ftImp4196797.gdpr_pd = "";
-ftImp4196797.oob_consent = "";
-ftImp4196797.gdprStoredConsent = "";
-ftImp4196797.us_privacy = "";
-
-document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/419/4196797/3481775/js/j-4196797-3481775.js" id="ftscript_m4196797" name="ftscript_m4196797"></scr'+'ipt>');
