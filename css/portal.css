@@ -11,14 +11,14 @@ html {
 
 ::selection {
     color: #000; 
-    background: #ff0;
+    background: #8D9B6A;
 }
 
 h1 {
     font-family: 'Bree Serif', serif;
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: #816C5B;
     line-height: 2.5em;
 }
 
@@ -38,13 +38,13 @@ h2,h3 {
 }
 
 a {
-    color:#8D9B6A;
+    color:#8F5B34;
     text-decoration: none;
 }
 
 a:hover {
-    color: #8F5B34;
-    background-color: #DAB692;
+    color: #816C5B;
+    background-color: #8D9B6A;
     text-decoration: none;
 }
 
